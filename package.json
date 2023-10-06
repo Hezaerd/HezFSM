@@ -4,8 +4,17 @@
     "version": "1.0.0",
     "unity": "2022.3",
     "displayName": "HezFSM"
-    "dependencies": 
-    {
+    "dependencies": {
         "com.github.siccity.xnode": "1.8.0"
-    }
+     },
+    "keywords": [
+        "fsm",
+        "state machine",
+        "finite state machine",
+        "xnode"
+    ],
+    "author": {
+        "name": "Hezaerd",
+        "email": "swann.rouanet@gmail.com",
+        "url": "https://github.com/Hezaerd"
 }
