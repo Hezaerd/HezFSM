@@ -6,6 +6,6 @@
     "displayName": "HezFSM"
     "dependencies": 
     {
-        "https://github.com/Siccity/xNode.git": "master"
+        "com.github.siccity.xnode": "1.8.0"
     }
 }
