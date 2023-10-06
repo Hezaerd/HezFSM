@@ -1,11 +1,12 @@
 {
     "name": "com.github.hezaerd.hezfsm",
-    "description": "Finite State Machine for Unity with graph editor using xNode",
     "version": "1.0.0",
-    "unity": "2022.3",
     "displayName": "HezFSM",
+    "description": "Finite State Machine for Unity with graph editor using xNode",
+    "unity": "2022.3",
+    "licensesUrl": "https://github.com/Hezaerd/HezFSM/blob/main/LICENSE",
     "dependencies": {
-        "com.github.siccity.xnode": "master"
+        "com.github.siccity.xnode": "main"
      },
     "keywords": [
         "fsm",
