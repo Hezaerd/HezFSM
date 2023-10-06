@@ -6,7 +6,7 @@
     "unity": "2022.3",
     "licensesUrl": "https://github.com/Hezaerd/HezFSM/blob/main/LICENSE",
     "dependencies": {
-        "com.github.siccity.xnode": "main"
+        "com.github.siccity.xnode": "1.8.0"
      },
     "keywords": [
         "fsm",
