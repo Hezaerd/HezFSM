@@ -5,9 +5,6 @@
     "description": "Finite State Machine for Unity with graph editor using xNode",
     "unity": "2022.3",
     "licensesUrl": "https://github.com/Hezaerd/HezFSM/blob/main/LICENSE",
-    "dependencies": {
-        "com.github.siccity.xnode": "1.0.0"
-     },
     "keywords": [
         "fsm",
         "state machine",
