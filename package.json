@@ -3,7 +3,7 @@
     "description": "Finite State Machine for Unity with graph editor using xNode",
     "version": "1.0.0",
     "unity": "2022.3",
-    "displayName": "HezFSM"
+    "displayName": "HezFSM",
     "dependencies": {
         "com.github.siccity.xnode": "1.8.0"
      },
