@@ -1,0 +1,7 @@
+{
+    "name": "com.github.hezaerd.hezfsm",
+    "description": "Finite State Machine for Unity with graph editor using xNode",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "displayName": "HezFSM"
+}
