@@ -4,4 +4,8 @@
     "version": "1.0.0",
     "unity": "2022.3",
     "displayName": "HezFSM"
+    "dependencies": 
+    {
+        "https://github.com/Siccity/xNode.git": "master"
+    }
 }
